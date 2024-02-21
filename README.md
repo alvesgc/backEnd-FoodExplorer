@@ -15,7 +15,7 @@ O **Food Explorer** é um Web App que simula um menu interativo de um restaurant
 ##  preview 💻
 ![Preview do projeto](https://cdn.discordapp.com/attachments/1135990801948745979/1154859433684381716/Mockups.png)
 
-[acesse o front end aqui](https://github.com/gabrielSantos1101/Front-FoodExplorer)
+[acesse o front end aqui](https://github.com/alvesgc/Front-FoodExplorer)
 
 ## 📦 Pré-requisitos
 
@@ -31,10 +31,10 @@ Siga os passos abaixo para instalar e configurar a aplicação em um ambiente lo
 1. 📥 **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/gabrielSantos1101/backEnd-FoodExplorer.git
+    git clone https://github.com/alvesgc/backEnd-FoodExplorer.git
 
     ou a CLI:
-    gh repo clone gabrielSantos1101/backEnd-FoodExplorer
+    gh repo clone alvesgc/backEnd-FoodExplorer
     ```
 
 2. 📂 **Navegue para o diretório do projeto:**
